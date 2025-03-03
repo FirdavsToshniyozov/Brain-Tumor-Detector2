@@ -12,9 +12,9 @@ Hello everyone! Today, I am excited to present my project – **Brain Tumor Dete
 ---
 
 ## 🔹 How It Works:
-1️⃣ The user uploads an MRI scan through the web interface.
-2️⃣ The image is processed and analyzed using a pre-trained CNN model.
-3️⃣ The system predicts the tumor type and displays the result along with the confidence percentage.
+- 1️⃣ The user uploads an MRI scan through the web interface.
+- 2️⃣ The image is processed and analyzed using a pre-trained CNN model.
+- 3️⃣ The system predicts the tumor type and displays the result along with the confidence percentage.
 
 ---
 
