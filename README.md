@@ -70,5 +70,5 @@ Once these improvements are implemented, I plan to **deploy the project as a ful
 
 ---
 
-🚀 **Stay tuned for updates!**
+### 🚀 **Stay tuned for updates!**
 
