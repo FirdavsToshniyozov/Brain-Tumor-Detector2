@@ -27,11 +27,11 @@ Hello everyone! Today, I am excited to present my project – **Brain Tumor Dete
 ---
 
 ## 🎨 **Design & UI Enhancements:**
-One of the key aspects of this project is its modern and interactive UI:
+One of the key aspects of this project is its modern and interactive UI:  
 ✅ **Dark-themed UI** with gradient effects for a clean, professional look.  
-✅ **Smooth scroll animations** using GSAP to enhance user experience.
-✅ **Dynamic file upload button** with hover effects for better interaction.
-✅ **Result display with animated confidence percentage**, making the output more visually appealing.
+✅ **Smooth scroll animations** using GSAP to enhance user experience.  
+✅ **Dynamic file upload button** with hover effects for better interaction.  
+✅ **Result display with animated confidence percentage**, making the output more visually appealing.  
 
 ---
 
